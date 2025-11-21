@@ -1,22 +1,22 @@
-## Yalie Search
+# Yalie Search
 
 Ever wanted to find fine shyt on campus without having to talk to them irl? See shawty walking around on campus but too scared to ask for their name and contact? 
 
-# I gotchu
+**I gotchu**
 
 This app aims to use machine learning to identify people's facial features through semantic queries. Prompts can be:
 
-# Descriptive
+### Descriptive
 1. "Asian woman with glasses"
 2. "White man with black hair"
 3. "Hispanic, wearing glasses"
 
-# Identity-anchored
+### Identity-anchored
 1. "Tom Brady but black"
 2. "Taylor Swift if she was a man"
 3. "Keanu Reeves when he was 20 years old"
 
-# Subjective
+### Subjective
 1. "Sexiest, most attractive person"
 2. "Looks like they give warm hugs"
 3. "Most likely to succeed"
@@ -25,7 +25,7 @@ There will a leaderboard posting top search results for each week. Let the stalk
 
 
 
-# Documentation
+## Documentation
 
 These scripts use CLIP Embedding and a euclidean vector search to generate top results.
 

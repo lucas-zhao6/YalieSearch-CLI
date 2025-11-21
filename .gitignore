@@ -1,6 +1,8 @@
 # My stuff
 .venv
 .DS_Store
+yalies.json
+yalies_embedding.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
