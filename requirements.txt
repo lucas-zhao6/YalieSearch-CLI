@@ -1,0 +1,13 @@
+pandas
+numpy
+requests
+Pillow
+transformers
+torch
+torchvision
+scikit-learn
+matplotlib
+plotly
+tqdm
+umap-learn
+python-dotenv
