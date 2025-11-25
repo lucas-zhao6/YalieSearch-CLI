@@ -14,7 +14,7 @@ A semantic face search CLI that uses OpenAI's CLIP model to find Yale students b
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/yalie_search.git
+git clone https://github.com/lucas-zhao6/YalieSearch-CLI.git
 cd yalie_search
 
 # Install dependencies
